@@ -4,7 +4,7 @@
 
 <br>
 
-### TIL 형식 :
+## TIL 형식
 ```markdown
 ## Today I Learned - X월 XX일 (월)
 ___
