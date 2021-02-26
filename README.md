@@ -13,7 +13,7 @@
 
 [💽 데이터베이스 지식정리](https://github.com/KangKyung/TIL/tree/main/Database)
 
-[🧬 자료구조 지식정리](https://github.com/KangKyung/TIL/tree/main/Datastructure)
+[🧬 자료구조 지식정리](https://github.com/KangKyung/TIL/tree/main/DataStructure)
 
 [🎨 디자인패턴 지식정리](https://github.com/KangKyung/TIL/tree/main/DesignPattern)
 
